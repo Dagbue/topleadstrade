@@ -3,8 +3,9 @@
 
   <div class="mapouter">
     <div class="gmap_canvas">
-      <iframe width="100%" height="100%"  frameborder="0" scrolling="no" marginheight="0" marginwidth="0" id="gmap_canvas" src="https://maps.google.com/maps?width=520&amp;height=400&amp;hl=en&amp;q=75%20Uxbridge%20Rd,%20London%20W5%205SL,%20UK%20+(Assets%20Management%20Limited)&amp;t=&amp;z=12&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"></iframe>
-<!--      <a href='https://maps-generator.com/'>Maps Generator</a>-->
+      <iframe width="100%" height="100%" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" id="gmap_canvas" src="https://maps.google.com/maps?width=520&amp;height=400&amp;hl=en&amp;q=45%20Green%20Lane,%20London,%20United%20Kingdom,%20EC1V%201AA%20+(TopLeads%20Trade)&amp;t=&amp;z=12&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"></iframe>
+      <!--      <a href='https://maps-generator.com/'>Maps Generator</a>-->
+
   </div>
   </div>
 

@@ -116,6 +116,17 @@ export default {
     padding-top: 10%;
     padding-bottom: 15%;
   }
+  .section-1{
+    width: 100%;
+  }
+  .section-2{
+    width: 100%;
+  }
+  .text-3{
+    line-height: 1.4;
+    width: 100%;
+    /*color: #667085;*/
+  }
 }
 
 @media (max-width: 500px){

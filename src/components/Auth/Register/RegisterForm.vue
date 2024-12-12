@@ -1,6 +1,6 @@
 <template>
   <div class="back">
-    <form class="signUp"  >
+    <form class="signUp" @submit.prevent="createUser" >
       <div class="wrapper">
         <div class="headline">
           <router-link to="/">
@@ -343,7 +343,7 @@
               />
               <label for="remember-me" class="checkbox-text"
               >I Agree to TopLeads Trade
-                <a  class="terms" >Terms And Conditions</a></label
+                <a  class="terms" @click="showDialog" >Terms And Conditions</a></label
               >
             </div>
             <base-button

@@ -13,7 +13,7 @@
 
 
         <p class="text-2">Your investments, your decisions, powered by <br/> cutting-edge technology — the world’s leading
-          <br/> platform for crypto, stocks, and indices trading.
+          platform <br/> for crypto, stocks, and indices trading.
         </p>
 
 
@@ -224,6 +224,33 @@ video{
 
 @media (max-width: 700px) {
 
+  .hero-section-image-1{
+    display: none;
+  }
+  .hero-section-image-2{
+    display: none;
+  }
+  .hero-section-image-3{
+    display: none;
+  }
+
+  .hero-section-image-4{
+    display: none;
+  }
+  .hero-section-image-5{
+    display: none;
+  }
+  .hero-section-image-6{
+    display: none;
+  }
+
+  .image{
+    width: 55%;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+  }
+
   .section-alpha{
     height: 100%;
     padding-top: 5%;
@@ -274,7 +301,6 @@ video{
     display: block;
     margin-left: auto;
     margin-right: auto;
-    margin-top: 5%;
   }
 
   video{

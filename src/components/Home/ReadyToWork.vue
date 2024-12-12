@@ -8,7 +8,7 @@
             href="mailto:support@topleadstrd.com">support@topleadstrd.com</a></p>
       </div>
       <div class="seperate mobile">
-        <p class="download-sub">zuru close</p>
+        <p class="download-sub">45 Green Lane, London, United Kingdom, EC1V 1AA.</p>
       </div>
 
       <div class="button-seprate" @click="onPostClick">

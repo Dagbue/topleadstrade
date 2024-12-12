@@ -230,6 +230,26 @@ video{
 
 @media (max-width: 700px) {
 
+  .hero-section-image-1{
+    display: none;
+  }
+  .hero-section-image-2{
+    display: none;
+  }
+  .hero-section-image-3{
+    display: none;
+  }
+
+  .hero-section-image-4{
+    display: none;
+  }
+  .hero-section-image-5{
+    display: none;
+  }
+  .hero-section-image-6{
+    display: none;
+  }
+
   .section-alpha{
     height: 100%;
     padding-top: 5%;
@@ -247,7 +267,7 @@ video{
   }
 
   .text-1{
-    font-size: 43px;
+    font-size: 40px;
     line-height: 45px;
     margin-bottom: 8px;
     /*width: 90%;*/
@@ -258,7 +278,7 @@ video{
 
   .text-2{
     font-size: 15px;
-    line-height: 22px;
+    line-height: 20px;
     text-align: center;
   }
 
@@ -286,6 +306,10 @@ video{
   video{
     width: 100%;
     border-radius: 30px;
+  }
+
+  .image-lst{
+    width: 70%;
   }
 }
 

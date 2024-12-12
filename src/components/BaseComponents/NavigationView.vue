@@ -585,7 +585,7 @@ a {
     justify-content: space-between;
   }
   .logo {
-    width: 20%;
+    width: 50%;
     padding-left: unset;
     margin-left: 10px;
   }

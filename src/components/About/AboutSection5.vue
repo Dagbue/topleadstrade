@@ -167,7 +167,7 @@ export default {
     line-height: 1.3;
   }
   .image{
-    width: 90%;
+    width: 55%;
   }
 }
 

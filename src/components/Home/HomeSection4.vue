@@ -223,6 +223,24 @@ export default {
     padding: 0.5em 30px 0.4em 30px;
   }
 
+  .separate{
+    display: block;
+    gap: unset;
+    justify-content: unset;
+  }
+
+
+  .section-2-container{
+    width: 90%;
+    display: block;
+    margin-right: auto;
+    margin-right: auto;
+    margin-bottom: 2%;
+  }
+
+  .section-2{
+    margin-left: 5%;
+  }
 }
 
 @media (max-width: 500px){
