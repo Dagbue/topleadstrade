@@ -1,6 +1,6 @@
 <template>
   <div class="back">
-    <form class="signUp" @submit.prevent="createUser" >
+    <form class="signUp"  >
       <div class="wrapper">
         <div class="headline">
           <router-link to="/">
@@ -567,9 +567,9 @@ form {
 
 
 .company-logo{
-  width: 15%;
+  width: 35%;
   margin-top: 5%;
-  margin-bottom: 2%;
+  margin-bottom: 1.5%;
 }
 
 :root {

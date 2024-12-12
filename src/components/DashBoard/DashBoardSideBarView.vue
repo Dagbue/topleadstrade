@@ -224,7 +224,7 @@ export default {
   display: flex;
 }
 .afo-logo{
-  width: 90%;
+  width: 100%;
   background-color: #ffffff;
   padding: 10px 20px;
   border-radius: 5px;

@@ -12,14 +12,15 @@
           <div class="footer-link-container">
             <h3 class="footer-title">About Us</h3>
             <p class="footer-link width">
-              Established on November 14, 2016, TopLeads Trade has its headquarters at 75 Uxbridge Rd, London W5
-              5SL, UK with the official registration under company number 10588120.
-              Our company takes pride
-              in being a trusted and innovative digital asset, stocks, forex trading platform tailored for a global clientele,
-              leveraging the cutting-edge technology. We are committed to delivering a secure and reliable
-              platform that offers advanced solutions in various financial domains, including Financial Administration,
-              Risk Management, Investment Services, and Return Provisioning. Our mission is to empower our
-              international customers with state-of-the-art tools and expertise for successful trading
+              TopLeads Trade was founded on November 14, 2016, with its headquarters located at 45 Green Lane, London, United
+              Kingdom, EC1V 1AA. The company is officially registered under company number 11387246.At TopLeads Trade, we are
+              dedicated to providing a cutting-edge digital platform for trading in a wide range of financial assets,
+              including stocks, forex, indices, and commodities. Our platform is built on advanced technology,
+              integrating the robust features of leading exchanges like Bittrex, ensuring a seamless and secure
+              trading experience for our global clientele.We offer a comprehensive suite of services designed to meet the
+              diverse needs of traders and investors worldwide. Our areas of expertise include financial administration,
+              risk management, investment strategies, and return optimization. We are committed to empowering our
+              international customers with the tools and knowledge necessary for success in the dynamic world of trading
               and financial management.
             </p>
           </div>

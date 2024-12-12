@@ -6,7 +6,8 @@
 
 <!--        <p class="topmost-header-text">-->
 <!--          <i class='bx bxs-map' ></i>-->
-<!--          53 Bristol Road Bristol Road, Chippenham, England, SN15 1NT-->
+<!--          45 Green Lane, London, United-->
+<!--          Kingdom, EC1V 1AA-->
 <!--        </p>-->
 
 
@@ -227,7 +228,9 @@ export default {
 }
 
 .logo {
-  width: 6%;
+  width: 20%;
+  margin-top: 1.5%;
+  margin-bottom: 1.5%;
 }
 
 .style-4 {

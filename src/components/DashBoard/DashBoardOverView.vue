@@ -40,7 +40,7 @@
 
         <div class="section-3-content">
           <div class="content-1">
-            <p class="content-1-text-1">BTC Balance</p>
+            <p class="content-1-text-1">BTC Balance {{this.UserDetails.user.userId}}</p>
             <div>
               <p class="content-1-text-2" >{{bitcoin}}</p>
             </div>

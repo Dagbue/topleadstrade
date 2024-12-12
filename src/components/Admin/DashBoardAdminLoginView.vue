@@ -1,6 +1,6 @@
 <template>
   <div class="alpha" >
-    <form class="logoIn" @submit.prevent="next">
+    <form class="logoIn" >
       <div class="wrapper">
         <div class="headline">
 <!--          <router-link to="/">-->

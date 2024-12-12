@@ -89,7 +89,7 @@ form {
 }
 
 .company-logo{
-  width: 25%;
+  width: 45%;
   /*margin-top: 8%;*/
   margin-bottom: 1.5%;
 }
