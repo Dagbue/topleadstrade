@@ -368,7 +368,7 @@ i{
 }
 
 .logo2{
-  width: 60%;
+  width: 90%;
   margin-top: 15px;
   margin-bottom: 10px;
 }
@@ -624,7 +624,7 @@ a {
   }
 
   .logo {
-    width: 33%;
+    width: 50%;
     padding-left: unset;
     margin-left: 5px;
   }

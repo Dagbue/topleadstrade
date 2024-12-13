@@ -193,7 +193,7 @@ export default {
 @media (max-width: 990px){
 
   .image{
-    width: 100%;
+    width: 60%;
     display: block;
     margin-right: auto;
     margin-left: auto;
@@ -244,7 +244,7 @@ export default {
     margin-left: auto;
     margin-right: auto;
     object-fit: cover;
-    width: 180px;
+    width: 100px;
   }
 
 
