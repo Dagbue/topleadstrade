@@ -47,7 +47,7 @@
               <div class="social-logo">
                 <div class="last-div">
                   <i class='bx bxs-map' ></i>
-                  <p class="last-div-para contain">Zuru close</p>
+                  <p class="last-div-para contain">45 Green Lane, London, United Kingdom, EC1V 1AA</p>
                 </div>
               </div>
               <div class="social-logo">
