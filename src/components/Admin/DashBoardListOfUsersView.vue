@@ -37,6 +37,7 @@
       <div class="table" v-if="this.allUsers.length > 0" >
         <table>
           <tr>
+            <th>ID</th>
             <th>First Name</th>
             <th>Last Name</th>
             <th>Email</th>
@@ -69,6 +70,7 @@
 
           <tbody v-else v-for="child in paginatedItems" :key="child.key">
           <tr>
+            <td data-label="UserId">{{child.userId}}</td>
             <td data-label="First Name">{{child.firstName}}</td>
             <td data-label="Last Name">{{child.lastName}}</td>
             <td data-label="Email">{{child.email | formatTextWithEllipsis}}</td>
